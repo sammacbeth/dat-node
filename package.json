@@ -1,5 +1,5 @@
 {
-  "name": "@beaker/dat-node",
+  "name": "@sammacbeth/dat-node",
   "version": "1.0.0",
   "description": "A toolkit for writing Dat-based services in nodejs",
   "main": "index.js",
