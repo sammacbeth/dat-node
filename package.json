@@ -27,6 +27,7 @@
     "dat-encoding": "^5.0.1",
     "dat-swarm-defaults": "^1.0.1",
     "discovery-swarm": "^5.1.2",
+    "discovery-swarm-stream": "^1.0.0",
     "dom-event-target": "^1.0.0",
     "get-folder-size": "^2.0.0",
     "hypercore-protocol": "^6.6.4",
@@ -36,7 +37,8 @@
     "parse-dat-url": "^3.0.1",
     "pauls-dat-api": "^8.0.0",
     "sodium-signatures": "^2.1.1",
-    "toiletdb": "^1.4.1"
+    "toiletdb": "^1.4.1",
+    "websocket-stream": "^5.1.2"
   },
   "devDependencies": {
     "ava": "^0.25.0",
